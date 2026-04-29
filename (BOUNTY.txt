@@ -1,0 +1,23 @@
+==================================================
+   GLYPH SYSTEMS | BOUNTY & DEBUGGING RULES
+==================================================
+PROJECT: GLYPH NETWORK GATEWAY (NODE 4)
+CORE ENGINE: GLYPH LOGIC
+
+--- BOUNTY CATEGORIES ---
+
+1. COHERENCE DRIFT:
+   Awarded for proving signal drift resulting in 
+   less than 99.00% coherence.
+
+2. LATENCY ANOMALY:
+   Awarded for identifying unauthorized processing 
+   delays or static interruptions.
+
+3. SECURITY VULNERABILITY:
+   Awarded for identifying bypasses of the 
+   Node 4 buffer.
+
+NOTICE: All tests must be conducted during a 
+scheduled 10-minute sync window.
+==================================================
