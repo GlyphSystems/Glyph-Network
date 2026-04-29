@@ -1,0 +1,17 @@
+{
+    "AUDIT-TEST-2026": {
+        "session_id": "GN-AUDIT-0001",
+        "status": "active",
+        "expiration": 1777550400,
+        "remaining_runs": 88,
+        "max_runs": 100,
+        "max_payload_size": 2048,
+        "last_request": 1777491330.7572706
+    },
+    "AUDIT-OSXH-2026": {
+        "session_id": "GN-AUDIT-5794",
+        "status": "active",
+        "remaining_runs": 12,
+        "max_runs": 12
+    }
+}
