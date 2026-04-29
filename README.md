@@ -13,34 +13,26 @@ between external auditors and the private internal mesh.
 
 THE SIGNAL LOGIC (HOW TO TEST)
 
-In this system, sentences are processed as Geometric Test Pulses.
+In this system, data strings are processed as Geometric Test Pulses.
 
-1. THE INPUT: The auditor submits a string of text into the Node 4 terminal.
-2. THE JOURNEY: The pulse is sent through the private internal network.
-3. THE CALIBRATION: The system uses GLYPH LOGIC (formerly known as 
-   spirologic) to maintain signal integrity.
-4. THE PROOF: If the pulse returns to Node 4 with zero drift, 
-   the 99.98% Coherence is verified.
+1. THE INPUT: The auditor submits a test payload into the gateway.
+2. THE JOURNEY: The pulse is processed through the private mesh.
+3. THE CALIBRATION: GLYPH LOGIC maintains signal integrity.
+4. THE PROOF: High-coherence results prove zero data drift.
 
 ---
 
 THE GLYPH ECOSYSTEM
-Glyph Network: The structural foundation of the mesh.
-Glyph OS: The non-linear computational framework.
-Glyph Encryption: Geometric-state-based security.
-Glyph Logic: The progressive engine (formerly spirologic).
+* Glyph Network: The structural foundation of the mesh.
+* Glyph OS: The non-linear computational framework.
+* Glyph Encryption: Geometric-state-based security.
+* Glyph Logic: The progressive engine (formerly spirologic).
 
 ---
 
 AUDITOR INSTRUCTIONS
-
-To begin a verification run, you must first request an 
-Access Code from the System Architect.
-
-Step 1: Open the ACCESS_REQUEST.txt template.
-Step 2: Submit your parameters.
-Step 3: Once approved, use your code in the Admin Tool 
-to initiate the test signal.
+Access is by appointment only. Submit an ACCESS_REQUEST.txt 
+to receive a 10-minute sync window and digital key.
 
 ---
 DESIGNED BY: EUGENE ALLEN
