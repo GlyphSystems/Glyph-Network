@@ -1,0 +1,38 @@
+==================================================
+   GLYPH SYSTEMS | AUDIT & SESSION SCHEDULING
+==================================================
+STATUS: OPEN FOR APPOINTMENTS
+SESSION LENGTH: 5 - 10 MINUTES (CALIBRATED)
+
+To maintain system integrity and hardware efficiency, 
+all gateway access is by appointment only. 
+
+--- SESSION CATEGORIES ---
+
+1. COHERENCE AUDIT:
+   Standard verification of input/output signal 
+   integrity. Proves 99.98% coherence for data 
+   training or encryption testing.
+
+2. DEBUGGING SESSION:
+   Focused run to identify signal drift or 
+   bottlenecks in external third-party AI models 
+   using the Glyph Logic engine.
+
+3. BOUNTY SUBMISSION:
+   For authorized users to submit stress-test 
+   payloads for system verification.
+
+--- THE SCHEDULING PROCESS ---
+
+STEP 1: Submit your ACCESS_REQUEST.txt to the Lobby.
+STEP 2: Remit the required Audit Fee.
+STEP 3: Receive your Digital Key and a 10-minute 
+        Sync Window.
+STEP 4: At the scheduled time, the Node 4 Gateway 
+        will open for your specific signal pulse.
+
+NOTICE: Sessions are strictly limited to the 10-minute 
+window. The gateway seals automatically upon 
+completion of the pulse return.
+==================================================
